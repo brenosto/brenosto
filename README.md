@@ -1,0 +1,5 @@
+- # Sobre Mim
+- 👋 Olá meu nome é Breno
+- 👀 meu email de contato é brenobrandao430@gmail.com
+- 🌱 Eu estou interresado em aprender a programar novas linguagens
+- 💞️ Estou aprendendo a programar recentemente linguagem de JacaScript e Scratch
